@@ -2,7 +2,7 @@
 #RStudio
 #RAINFALL-INDUCED LANDSLIDES PREDICTION USING ARTIFICIAL INTELLIGENCE (AI) FOR RISK REDUCTION IN BANJARNEGARA INDONESIA
 #Anistia Malinda Hidayat, Adi Mulsandi, Hastuardi Harsa, Bambang Suprihadi
-#this script used for plotting the data and predicting the probability of rainfall-induced landslide
+#this script used for plotting the data and predicting the probability of rainfall-induced landslide based on artificial neural network. The type of ANN to be used in this research is ANN-based on probabilistic for gaining classification, so-called Probabilistic Neural Network (PNN).
 
 # clear all
 rm(list = ls())
